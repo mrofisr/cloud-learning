@@ -11,10 +11,11 @@
 - [Linux Upskill Challenge](https://linuxupskillchallenge.org/)
 - [OverTheWire](https://overthewire.org)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-- [Google SRE Classroom](https://sre.google/classroom/): workshops from Google's SRE group on non-abstract large systems design, including Distributed PubSub and Distributed ImageServer, plus The Art of SLOs. Many people only read the SRE book and skip this.
-- [The Art of SLOs](https://sre.google/resources/practices-and-processes/art-of-slos/): the full materials (slides, a 28-page participant handbook and a facilitator guide) are free under CC BY 4.0. You could run it with a team or at a community meetup.
-- [sre.google resources](https://sre.google/): beyond the books, it has Prodverbs, a Measuring Reliability section, and talks such as "Why Heroism is Bad".
-- [awesome-sre](https://github.com/dastergon/awesome-sre): How They SRE collects public engineering-blog and conference material on how companies run SRE, and awesome-sre is a curated list of SRE resources.
-- [k8s.af](https://k8s.af/) is a curated list of public Kubernetes postmortems and failure talks. Entries tag the components involved, such as CoreDNS, CPU throttling, OOMKill, etcd and ELB dynamic IPs. One caveat: many of the entries I could see date from 2017 to 2019, so the root causes are still instructive but the tooling has moved on.
-- [EKS Workshop](https://eksworkshop.com/): hands-on modules on fundamentals, autoscaling, observability, security, networking and automation (GitOps). You can pick modules in any combination. It uses one consistent sample retail app and provisions the cluster with Terraform.
-- [EKS Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html): day-2 operations guidance published on GitHub, with an open-source CLI called [hardeneks](https://github.com/aws-samples/hardeneks) that checks some of its recommendations against a cluster.
+- [Google SRE Classroom](https://sre.google/classroom/)
+- [The Art of SLOs](https://sre.google/resources/practices-and-processes/art-of-slos/)
+- [sre.google resources](https://sre.google/)
+- [awesome-sre](https://github.com/dastergon/awesome-sre)
+- [k8s.af](https://k8s.af/)
+- [EKS Workshop](https://eksworkshop.com/)
+- [EKS Best Practices Guide](https://docs.aws.amazon.com/eks/latest/best-practices/introduction.html)
+- [hardeneks](https://github.com/aws-samples/hardeneks)
